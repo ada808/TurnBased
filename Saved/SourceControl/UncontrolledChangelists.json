@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/TurnBasedJRPGTemplate/Maps/Gameplay.umap",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/spider_man_far_from_home.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Mat.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Mat_1.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Mat_2.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Mat_1_ncl1_1.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Mat_3.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Mat_4.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Mat_5.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/spider_man_far_from_home_Skeleton.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/spider_man_far_from_home_PhysicsAsset.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/spider_man_far_from_home_Anim.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/BP_CharacterTest1.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/T_Spidey_Enhanced_Gear_D.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/T_Spidey_Enhanced_Suit_D.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Spiderman/BP_CharacterTest1.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Spiderman/Mat.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Spiderman/Mat_1.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Spiderman/Mat_2.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Spiderman/Mat_3.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Spiderman/Mat_4.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Spiderman/Mat_5.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Spiderman/Mat_1_ncl1_1.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Spiderman/spider_man_far_from_home.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Spiderman/spider_man_far_from_home_Anim.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Spiderman/spider_man_far_from_home_PhysicsAsset.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Spiderman/spider_man_far_from_home_Skeleton.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Spiderman/T_Spidey_Enhanced_Gear_D.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/Spiderman/T_Spidey_Enhanced_Suit_D.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/ChickenDance/Chicken_Dance.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/ChickenDance/color_40919mat.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/ChickenDance/color_3888547mat.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/ChickenDance/color_16089887mat.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/ChickenDance/color_16311991mat.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/ChickenDance/Chicken_Dance_Skeleton.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/ChickenDance/Chicken_Dance_PhysicsAsset.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/Characters/ChickenDance/Chicken_Dance_Anim.uasset",
+				"C:/Users/Ada/Desktop/Pool Game/Jrpg/TurnBased/Content/TurnBasedJRPGTemplate/Blueprints/Interactables/BP_Shop.uasset"
+			]
+		}
+	]
+}
